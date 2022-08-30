@@ -1,0 +1,9 @@
+version: 2.1
+
+description: >
+  This is to login to Amazon Web Services with OIDC.
+display:
+  source_url: "https://github.com/tetsuya28/aws-oidc-orb"
+
+orbs:
+  aws-cli: circleci/aws-cli@3.1.3
